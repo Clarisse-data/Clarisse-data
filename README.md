@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Clarisse
-- 👀 I’m interested in ...
+- 👀 I’m interested in cyber security and data
 - 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Access projects
+- 📫 How to reach me clarissedatanlytics@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have started walking my cat
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clarisse-jama-5965812b9) 
